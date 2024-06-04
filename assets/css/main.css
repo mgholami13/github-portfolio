@@ -32,6 +32,11 @@ nav a,
     font-weight: bold;
 }
 
+/* Making specific text bold */
+.bold-text {
+    font-weight: bold;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
