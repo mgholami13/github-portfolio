@@ -25,6 +25,13 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+
+/* Making navigation links bold */
+nav a,
+.menu a {
+    font-weight: bold;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -186,7 +193,7 @@ input, select, textarea {
 	h2 {
 		font-weight: bold;  /* Add this line */
 	}
-	
+
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
