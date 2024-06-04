@@ -183,6 +183,11 @@ input, select, textarea {
 		letter-spacing: 0.2rem;
 	}
 
+	h2 {
+		font-weight: bold;  /* Add this line */
+	}
+	
+
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
