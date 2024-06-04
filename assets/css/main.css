@@ -1294,7 +1294,7 @@ input, select, textarea {
 				position: absolute;
 				top: calc(-3.5rem - 1px);
 				left: calc(50% - 1px);
-				width: 1px;
+				width: 3px;
 				height: calc(3.5rem + 1px);
 				background: #ffffff;
 			}
@@ -1360,13 +1360,13 @@ input, select, textarea {
 			margin-bottom: 0;
 			list-style: none;
 			padding-left: 0;
-			border: solid 1px #ffffff;
+			border: solid 3px #ffffff;
 			border-radius: 4px;
 		}
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px #ffffff;
+				border-left: solid 3px #ffffff;
 			}
 
 				#header nav ul li:first-child {
@@ -1399,7 +1399,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			left: calc(50% - 1px);
-			width: 1px;
+			width: 3px;
 			height: 100%;
 			background: #ffffff;
 		}
