@@ -724,6 +724,8 @@ input, select, textarea {
 			display: block;
 			margin: 2.5rem 0;
 			width: 100%;
+			box-shadow: none;  /* Remove any box shadow */
+			background-color: transparent;  /* Make background transparent */
 		}
 
 			.image.main img {
