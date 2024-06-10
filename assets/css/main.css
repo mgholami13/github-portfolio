@@ -655,7 +655,7 @@ input, select, textarea {
 /* Image */
 
 	.resized-image {
-		width: 25%; /* Adjust this value to the desired width */
+		width: 20%; /* Adjust this value to the desired width */
 		max-width: 300px; /* Optional: set a maximum width */
 		height: auto; /* Maintain aspect ratio */
 		display: block;
