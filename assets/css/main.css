@@ -25,6 +25,22 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;}
 
+p {
+    margin-bottom: 0.5em;
+}
+
+p + ul {
+    margin-top: 0;
+    margin-bottom: 1.5em;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+ul li {
+    margin-bottom: 0.5em;
+}
 
 
 /* Making navigation links bold */
