@@ -800,6 +800,7 @@ input, select, textarea {
 	/* Remove extra margin between date and list */
 	p + ul {
 		margin-top: 0;
+		padding-top: 0;
 	}
 
 	ul.alt {
@@ -830,6 +831,7 @@ input, select, textarea {
 	dl dd {
 		margin-left: 2rem;
 	}
+
 
 
 	/* ol {
